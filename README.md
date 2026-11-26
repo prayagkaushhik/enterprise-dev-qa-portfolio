@@ -29,6 +29,8 @@ Compared to others in the market, I deliver **high-quality work at very attracti
 * [WCAG 2.2 & Section 508 Accessibility Audit Framework](wcag-accessibility-audit-sample.md) — Accessibility checkpoints and accessible form sample
 * [Technical SEO & Structured Data Audit Checklist](technical-seo-audit-checklist.md) — Crawlability, indexing, and JSON-LD schema checklist
 * [Progressive Web App (PWA) & SPA Production Blueprint](pwa-architecture-blueprint.md) — Caching standards and `manifest.json` sample
+* [Master QA Test Plan & Defect Triage Sample](master-test-plan-and-bug-report.md) — Scope, entry/exit criteria, severity matrix, and bug report template
+* [Sample Website Accessibility & Technical SEO Audit Report](sample-accessibility-seo-audit-report.md) — Sample audit findings and remediation table
 
 ---
 
