@@ -23,6 +23,15 @@ Compared to others in the market, I deliver **high-quality work at very attracti
 
 ---
 
+## Technical Samples & Architecture Blueprints
+
+* [Enterprise QA Strategy & Automation Sample](qa-automation-and-test-plan.md) — Release checklist and automated smoke test script
+* [WCAG 2.2 & Section 508 Accessibility Audit Framework](wcag-accessibility-audit-sample.md) — Accessibility checkpoints and accessible form sample
+* [Technical SEO & Structured Data Audit Checklist](technical-seo-audit-checklist.md) — Crawlability, indexing, and JSON-LD schema checklist
+* [Progressive Web App (PWA) & SPA Production Blueprint](pwa-architecture-blueprint.md) — Caching standards and `manifest.json` sample
+
+---
+
 ## Availability & Location
 
 * **Location:** New Delhi, India
@@ -33,4 +42,4 @@ Compared to others in the market, I deliver **high-quality work at very attracti
 ## Contact
 
 * **Email:** prayagkaushhik@gmail.com
-* **Website:** https://www.prayagkaushhik.com/
+* **Website:** https://www.prayaggkaushikk.com/
